@@ -10,6 +10,12 @@
       "error",
       "LabeledStatement",
       "WithStatement"
+    ],
+    "no-param-reassign": [
+      "error",
+      {
+        "props": false
+      }
     ]
   }
 }
