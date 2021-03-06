@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import sortToMore from './more';
 import sortToLess from './less';
 
