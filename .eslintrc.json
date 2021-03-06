@@ -16,6 +16,12 @@
       {
         "props": false
       }
+    ],
+    "import/no-unresolved": [
+      2,
+      {
+        "commonjs": true
+      }
     ]
   }
 }
