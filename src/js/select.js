@@ -1,4 +1,3 @@
-/* eslint-disable import/no-unresolved */
 import sort from './sort';
 
 export default function selectCol() {

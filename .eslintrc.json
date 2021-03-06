@@ -5,11 +5,6 @@
      "browser": true,
      "jest": true
   },
-  "settings": {
-    "import/extensions": [
-      ".js"
-    ]
-  },
   "rules": {
     "no-restricted-syntax": [
       "error",
